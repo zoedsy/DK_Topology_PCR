@@ -6,7 +6,7 @@ This is the official Pytorch implementation of "Distilling Knowledge from Topolo
 
 ### Overview
 
-![image-20221002225508913](C:\Users\zoedusy\AppData\Roaming\Typora\typora-user-images\image-20221002225508913.png)
+![](D:\Research\CV\materials_cv_huaxi\codes\img\image-20221002225508913.png)
 
 
 
